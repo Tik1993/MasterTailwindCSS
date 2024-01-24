@@ -3,7 +3,7 @@ import Intro from "../components/Intro";
 export default function HomePage() {
   return (
     <>
-      <div className=" bg-cyan-50">
+      <div className=" bg-slate-200">
         <Intro />
       </div>
 
